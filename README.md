@@ -3,10 +3,8 @@
   This project is a walk through of a codebase that the user can use to create a new project with NPM,  Node, Passport, Sequelize and MySQL
 
   Screenshot of Project (Google Chrome): 
-  Tutorial
-  ![Screenshot](./Screen.PNG?raw=true)
-  Web App
-  ![Screenshot](./Screen2.PNG?raw=true)
+  ![Screenshot](./Screen-Shot-1.png)
+  ![Screenshot](./Screen-Shot-2.png?raw=true)
 
   Repo: https://github.com/bannoura9/Sequeliz-Reverse-Engineering-Code
 
